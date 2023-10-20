@@ -13,7 +13,7 @@ Hi.
 
 ## Current branches
 - main
-- feature
+- feature (added)
 
 ## Resolve merge conflicts
 - Resolve feature branch conflicts
